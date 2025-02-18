@@ -36,7 +36,7 @@ You can check out the live demo of the Tic-Tac-Toe game [here](https://rushuz.gi
 
 ## Screenshots
 
-![Tic-Tac-Toe Game](path-to-your-screenshot.png)
+![Tic-Tac-Toe Game](Tic-Tac-Toe.png)
 
 ## How It Works
 
