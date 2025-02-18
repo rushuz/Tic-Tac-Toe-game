@@ -14,7 +14,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can check out the live demo of the Tic-Tac-Toe game [here](#). *(Replace with your hosted link if available)*
+You can check out the live demo of the Tic-Tac-Toe game [here](https://rushuz.github.io/Tic-Tac-Toe-game/).
 
 ## Installation
 
